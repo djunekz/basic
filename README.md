@@ -1,5 +1,5 @@
 <h1 align="center">[ Basic Tool ]</h1>
-<h4 align="center">[ Simulator Terminal for learn basic coomand linux ]</h4>
+<h4 align="center">[ Simulator Terminal for learn basic command linux ]</h4>
 <p align="center">
 <a href="https://github.com/djunekz"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=github&label=AUTHOR&message=DJUNEKZ&color=blue")</a>
 <a href="https://github.com/djunekz/basic/tree/1.0.0><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Clockify&logoColor=white&label=Version&message=1.0&color=green")</a><br>
@@ -8,7 +8,7 @@
 		
 # Freedom Tools
 
-Simple tool for simulator termunal learning basic command for beginner<br>
+Simple tool for simulator terminal learning basic command for beginner<br>
 Author by Djunekz, jika ingin recode script ini usahakan cantumkan nama author di salinan kalian
  
 > [!NOTE]
